@@ -39,13 +39,7 @@ menuentry "OSX" {
 
 Entries that are autodetected should also show the proper icons.
 
-### Planned Changes
-
-Add more OS icons such as Slackware, Ubuntugnome, Xubuntu, and other. (If anyone would like to improve the icons, please feel free to.)
-
-(Possibly) add a better font.
-
-### Attribution
+### Credits
 
 The almost all of the OS icons are from [Metro for burg][icons] by [LuxieBlack][icon-author].
 
